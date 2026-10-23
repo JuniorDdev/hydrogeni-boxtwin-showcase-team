@@ -50,6 +50,16 @@ SQLite + fila offline ── sincronização ──→ plataforma central
 - Relatórios operacionais em PDF e Excel.
 - Interface responsiva, PWA e modo de demonstração.
 
+## Telas do produto
+
+| Visão geral das boxes | Painel de parede |
+| --- | --- |
+| ![Painel com visão geral das boxes](docs/painel.png) | ![Painel de parede com boxes monitoradas](docs/painel-parede.png) |
+
+| Monitoramento de uma box | Página pública do HydrogenI |
+| --- | --- |
+| ![Monitoramento com gêmeo digital 3D](docs/monitoramento.png) | ![Página pública do HydrogenI](docs/landing.png) |
+
 ## Arquitetura tecnológica
 
 | Camada | Tecnologias e componentes |
