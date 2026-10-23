@@ -75,7 +75,7 @@ SQLite + fila offline ── sincronização ──→ plataforma central
 
 O BoxTwin é resultado de trabalho colaborativo que reuniu desenvolvimento, arquitetura, interface, pesquisa, prototipagem, operações e apresentação. Cada integrante participou da construção e evolução da solução.
 
-### Domingos
+### Domingos Junior
 
 [GitHub](https://github.com/JuniorDdev) · [E-mail](mailto:junior.db2008@gmail.com) · [LinkedIn](https://www.linkedin.com/in/domingos-junior-7a5357252/)
 
