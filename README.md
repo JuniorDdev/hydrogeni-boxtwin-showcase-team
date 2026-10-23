@@ -8,6 +8,10 @@
 
 > Este é o repositório público de apresentação da equipe HydrogenI. O código do produto é mantido em repositório privado; aqui reunimos o contexto, a arquitetura e as entregas coletivas.
 
+<a href="https://github.com/JuniorDdev/hydrogeni-boxtwin-showcase-team"><img src="docs/qr-showcase.png" width="170" alt="QR code para o showcase HydrogenI BoxTwin 3D" /></a>
+
+Escaneie o QR code para abrir este showcase.
+
 ## O desafio
 
 O acompanhamento de fertilizantes a granel em boxes portuários pode depender de estimativas visuais e contagens manuais. Isso reduz a rastreabilidade do inventário e exige inspeções frequentes.
