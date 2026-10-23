@@ -75,11 +75,25 @@ SQLite + fila offline ── sincronização ──→ plataforma central
 
 O BoxTwin é resultado de trabalho colaborativo que reuniu desenvolvimento, arquitetura, interface, pesquisa, prototipagem, operações e apresentação. Cada integrante participou da construção e evolução da solução.
 
-- Domingos
-- Fernando Harrison
-- Geovane Paixão
-- Luís Hyerro
-- Mateus Mendes
+### Domingos
+
+[GitHub](https://github.com/JuniorDdev) · [E-mail](mailto:junior.db2008@gmail.com) · [LinkedIn](https://www.linkedin.com/in/domingos-junior-7a5357252/)
+
+### Fernando Harrison
+
+[GitHub](https://github.com/Fernando-Harrison) · [E-mail](mailto:fernandoharrison33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-harrison-431a6a324/)
+
+### Geovane Paixão
+
+[GitHub](https://github.com/Geovannehh) · [E-mail](mailto:eng.geovanepaixao@gmail.com) · [LinkedIn](https://www.linkedin.com/in/geovane-paix%C3%A3o/)
+
+### Luís Hyerro
+
+[GitHub](https://github.com/LuisHyerro) · [E-mail](mailto:luishyerro0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luis-hy%C3%AArro-b6407a250/)
+
+### Mateus Mendes
+
+[GitHub](https://github.com/mateusmendess) · [E-mail](mailto:mateusxmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateus-mendes-730789237/)
 
 ## Próximos passos
 
